@@ -1,2 +1,5 @@
 # first-github-project
-Lab Report For Git ad GitHub 
+•	Name Muneeb Gulistan
+•	Title AI Learner 
+•	Date December 7,2025
+•	Purpose of project : To learn by sharing 
